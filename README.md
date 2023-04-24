@@ -4,7 +4,7 @@
 
 • 🌱 I’m currently interested in researching what programming languages to learn/relearn: whether it be Python, C++, Java, JS, Objective-C/Swift, etc. And, to start applying them.
 
-• 💞️ I’m looking to collaborate on some projects related to these avenues with implications to digital electronics, image/signal processing (for any field), biotech, and the like.
+• 💞️ I’m looking to collaborate on some projects related to these avenues with implications to digital electronics, IoE, image/signal processing (for any field), biotech, machine learning, and the like.
 
 • 📫 How to reach me — just visit here... LOL!
 
