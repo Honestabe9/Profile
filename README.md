@@ -2,7 +2,7 @@
 
 • 👀 I’m interested in trying to leverage any bit of CS knowledge to get into the space of imaging and its modalities for applications in biomedicine.
 
-• 🌱 I’m currently interested in researching what programming languages to learn/relearn: whether it be Python, C++, Java, JS, Objective-C/Swift, etc. And, to start applying them.
+• 🌱 I’m currently interested in researching what programming languages to learn/relearn: whether it be Java, C/C++/C#, Python, MATLAB, JS, Objective-C/Swift, etc. And, to start applying them.
 
 • 💞️ I’m looking to collaborate on some projects related to these avenues with implications to digital electronics, IoE, image/signal processing (for any field), biotech, machine learning, and the like.
 
